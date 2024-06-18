@@ -516,7 +516,7 @@ export default function Home() {
         <p className="font-bold font-roboto text-[45px] leading-[67px] px-10 md:text-[60px] md:leading-[90px] lg:pb-[101px] uppercase text-center pb-[88px] md:pb-[88px]">
           Listen to Cold tapes
         </p>
-        <div className="flex flex-col lg:flex-row justify-center md:gap-[113px] md:px-[136px] md:mb-[121px] px-7">
+        <div className="flex flex-col lg:flex-row justify-center md:gap-[113px] md:px-[136px] md:mb-[121px] px-7 items-center">
           <div className="relative flex justify-center items-center h-[325px] w-[308px] md:h-[517px] md:w-[510px]">
             <div className="bg-red-500 h-full md:w-[510px] md:h-[517px] w-full absolute md:rotate-[10deg] rotate-[5deg] rounded-2xl"></div>
             <div className="bg-black md:w-[510px] p-[31px] h-[325px] w-[308px] md:p-0 md:px-[49px] md:py-[55px] md:h-[517px] text-[20px] leading-[30px] absolute  rounded-[40px] font-bold text-center lg:text-[30px] lg:leading-[45px]">
